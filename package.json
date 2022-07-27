@@ -4,8 +4,7 @@
   "description": "Landing page for nexter",
   "main": "index.js",
   "scripts": {
-    
-   
+    "start": "webpack-dev-server --hot --open"
   },
   "author": "Naz",
   "license": "ISC",
